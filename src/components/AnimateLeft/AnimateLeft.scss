@@ -1,0 +1,13 @@
+.container-animate {
+  margin: 150px;
+  display: grid;
+  grid-template-columns: [col1] 30% [col2] 30% [col3] 30%;
+  grid-gap: 50px;
+  grid-template-rows: [row1] 47% [row2] 47%;
+  text-align: center;
+  color: #fff;
+  background-color: #ffeecf;
+  padding: 30px;
+  width: 950px;
+  height: 200px;
+}
